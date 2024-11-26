@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1,
+    "product_title": "Laptop Pro 15",
+    "product_image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2021/03/mi-pro.png?ssl=1&quality=80&w=800",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "A sleek and powerful 15-inch laptop designed for professionals and creatives.",
+    "specification": [
+      "15-inch Retina Display",
+      "256GB SSD",
+      "16GB RAM",
+      "Intel Core i7",
+      "NVIDIA GeForce GTX 1650",
+      "Thunderbolt 3 Ports"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "product_title": "Ultra Gaming Laptop 17",
+    "product_image": "https://computermania-bd.b-cdn.net/wp-content/uploads/Asus-ROG-Scar-17-2.jpg",
+    "category": "Laptops",
+    "price": 1899.99,
+    "description": "A high-performance gaming laptop with a large display and powerful graphics card.",
+    "specification": [
+      "17-inch Full HD Display",
+      "512GB SSD",
+      "32GB RAM",
+      "Intel Core i9",
+      "RTX 3080",
+      "RGB Backlit Keyboard"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "product_title": "Lightweight Laptop Air",
+    "product_image": "https://www.greycom.com.cy/image/cache/catalog/2024%20Products/MacBook%20Air%20M3/MacBook_Air_15-in_M3_Chip_Hero_Vertical_Screen__WWEN-500x500.jpg",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "A lightweight and portable laptop perfect for everyday use.",
+    "specification": [
+      "13.3-inch Retina Display",
+      "256GB SSD",
+      "8GB RAM",
+      "Intel Core i5",
+      "Integrated Graphics",
+      "Fingerprint Sensor"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 4,
+    "product_title": "Business Laptop 14",
+    "product_image": "https://myshop.pk/pub/media/catalog/product/cache/badc1d10053babad93ba2ef2941284a4/_/h/_hp_-myshop-pk-4_5.jpg",
+    "category": "Laptops",
+    "price": 1099.99,
+    "description": "A reliable laptop with business-grade features and long battery life.",
+    "specification": [
+      "14-inch Full HD Display",
+      "512GB SSD",
+      "16GB RAM",
+      "Intel Core i7",
+      "Fingerprint Reader",
+      "Long Battery Life"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "product_title": "Convertible Laptop Flex",
+    "product_image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1715937318/Croma%20Assets/Computers%20Peripherals/Laptop/Images/275397_0_vsvzad.png?tr=w-360",
+    "category": "Laptops",
+    "price": 1199.99,
+    "description": "A versatile 2-in-1 laptop with a 360-degree hinge and touch screen.",
+    "specification": [
+      "14-inch Touchscreen Display",
+      "256GB SSD",
+      "8GB RAM",
+      "Intel Core i5",
+      "360-Degree Hinge",
+      "Active Pen Support"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "product_title": "Creative Studio Laptop",
+    "product_image": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RW16lMH?ver=de7c&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true",
+    "category": "Laptops",
+    "price": 1499.99,
+    "description": "A powerful laptop built for creators, with a high-resolution display and dedicated GPU.",
+    "specification": [
+      "15.6-inch 4K Display",
+      "1TB SSD",
+      "32GB RAM",
+      "Intel Core i9",
+      "NVIDIA RTX 3070",
+      "Stylus Support"
+    ],
+    "availability": false,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "product_title": "Phone Z Ultra",
+    "product_image": "https://drop.ndtv.com/TECH/product_database/images/625201332141PM_635_sony-xperia-z-ultra-db.png?downsize=*:420&output-quality=80",
+    "category": "Phones",
+    "price": 899.99,
+    "description": "A flagship smartphone with a stunning display and pro-grade cameras.",
+    "specification": [
+      "6.7-inch AMOLED Display",
+      "256GB Storage",
+      "12GB RAM",
+      "5G Connectivity",
+      "Triple 48MP Camera"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 8,
+    "product_title": "Budget Phone Max",
+    "product_image": "https://images.indianexpress.com/2021/08/Redminote10ProMax_1-1.jpeg?w=640",
+    "category": "Phones",
+    "price": 499.99,
+    "description": "An affordable smartphone with a great balance of performance and features.",
+    "specification": [
+      "6.4-inch Full HD Display",
+      "128GB Storage",
+      "8GB RAM",
+      "Dual 24MP Camera",
+      "5000mAh Battery"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 9,
+    "product_title": "Wireless Charger Pad",
+    "product_image": "https://img.drz.lazcdn.com/static/bd/p/a1d41ee71f857221624b182cb2ac8e1e.jpg_720x720q80.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "A fast wireless charging pad compatible with multiple devices.",
+    "specification": [
+      "10W Fast Charging",
+      "Qi-Certified",
+      "Compatible with iPhone and Android"
+    ],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "product_title": "Bluetooth Speaker Mini",
+    "product_image": "https://www.startech.com.bd/image/cache/catalog/speaker/mi-speaker/mi-portable-speaker-500x500.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "A portable Bluetooth speaker with excellent sound quality and long battery life.",
+    "specification": [
+      "10-Hour Battery Life",
+      "Bluetooth 5.0",
+      "Water-Resistant"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "product_title": "Smart Watch Active",
+    "product_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlaI6ZTOx2gTqEZrRFkJoUSIdlVo337MyCyA&s",
+    "category": "Smart Watches",
+    "price": 249.99,
+    "description": "A stylish and functional smartwatch with fitness tracking and heart rate monitoring.",
+    "specification": ["AMOLED Display", "Heart Rate Monitor", "GPS"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "product_title": "Smart Watch Pro",
+    "product_image": "https://www.gadstyle.com/wp-content/uploads/2024/03/cmf-by-nothing-watch-pro-smartwatch-1.webp",
+    "category": "Smart Watches",
+    "price": 399.99,
+    "description": "A premium smartwatch with advanced health tracking features and customizable watch faces.",
+    "specification": ["Retina Display", "ECG Monitor", "Fall Detection"],
+    "availability": true,
+    "rating": 4.9
+  }
+]

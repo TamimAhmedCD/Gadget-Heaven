@@ -1,0 +1,18 @@
+@import url(https://fonts.googleapis.com/css?family=Sora:100,200,300,regular,500,600,700,800);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Sora", sans-serif;
+  background-color: rgb(240, 240, 240);
+  overflow-y: scroll;
+}
+
+.active {
+  padding: 5px 10px;
+  background-color: rgb(240, 240, 240);
+  border-radius: 20px;
+  color: rgb(147 51 234);
+}

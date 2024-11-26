@@ -1,0 +1,24 @@
+[
+      {
+        "id": 1,
+        "category": "Laptops",
+        "category_description": "Explore a wide range of powerful and portable laptops for every need."
+      },
+      {
+        "id": 2,
+        "category": "Phones",
+        "category_description": "Discover the latest smartphones with cutting-edge technology."
+      },
+      {
+        "id": 3,
+        "category": "Accessories",
+        "category_description": "Shop for the best gadgets and accessories to complement your tech."
+      },
+      {
+        "id": 4,
+        "category": "Smart Watches",
+        "category_description": "Stay connected and track your fitness with the latest smartwatches."
+      }
+    ]
+
+  
